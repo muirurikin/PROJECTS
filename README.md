@@ -1,3 +1,8 @@
 # PROJECTS
 ###My projects repo
-project name,link to the project,details,features,tools used,contributors
+Project name:
+Link for the project:
+Details:
+Features:
+Tools used:
+Contributors:
