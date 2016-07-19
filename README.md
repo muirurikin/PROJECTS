@@ -5,10 +5,10 @@
 _________________
 
 **Repo Link**
-
+https://github.com/muirurikin/Gelateria
 
 **Project Details**
-A simple one paged site. 
+A simple one paged site based on a css awards site mock up. 
 
 
 **Features**
