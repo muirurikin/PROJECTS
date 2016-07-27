@@ -4,12 +4,14 @@ https://github.com/muirurikin/Portfolio
 
 **Website Link**:
 
+_________________
 
 
 # PROJECTS
 
+# Front-End Projects
 
-# Gelateria
+## Gelateria
 _________________
 
 **Repo Link**
@@ -29,7 +31,7 @@ Foundation,html,css,js
 **Contributors**
  [Alexona kinuthia]
  
-# Project-2
+## Project-2
 _________________
 
 **Repo Link**
