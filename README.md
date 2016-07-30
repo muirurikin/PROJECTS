@@ -51,3 +51,23 @@ Foundation,html,css,js,font awesome
 **Contributors**
  [Alexona kinuthia]
  
+## Oh-My-Dear
+_________________
+
+**Repo Link**
+https://github.com/muirurikin/Oh-My-Deer
+
+**Project Details**
+A simple website for a graphic design agency
+
+
+**Features**
+Contains a home-page,studio-page,contact-page and a work-page.
+
+**Tools**
+Foundation,html,css,js,font awesome
+
+
+**Contributors**
+ [Alexona kinuthia]
+ 
