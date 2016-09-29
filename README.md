@@ -15,10 +15,10 @@ _________________
 _________________
 
 **Repo Link**
-https://github.com/muirurikin/Gelateria
+https://github.com/muirurikin/Sage
 
 **Project Details**
-A simple one paged site based on a css awards site mock up. 
+A simple Psd to html site 
 
 
 **Features**
